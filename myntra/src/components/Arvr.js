@@ -60,14 +60,14 @@ const Arvr = () => {
             <div className="showcase-banner">
               <img
                 src={shirt4}
-                alt="Mens Winter Leathers Jackets"
+                alt="Summer style"
                 width="300"
                 className="product-img default"
                 onClick={() => handleImageClick(jacketImage)}
               />
               <img
                 src={jacketImage1}
-                alt="Mens Winter Leathers Jackets"
+                alt="Summer style"
                 width="300"
                 className="product-img hover"
                 onClick={() => handleImageClick(jacketImage1)}
@@ -90,10 +90,10 @@ const Arvr = () => {
             </div>
             <div className="showcase-content">
               <a href="#" className="showcase-category">
-                Vase
+                Denim Shorts
               </a>
               <a href="#">
-                <h3 className="showcase-title">Mens Winter Leathers Jackets</h3>
+                <h3 className="showcase-title">Summer Style</h3>
               </a>
               <div className="showcase-rating">
                 <ion-icon name="star"></ion-icon>
@@ -142,11 +142,11 @@ const Arvr = () => {
             </div>
             <div className="showcase-content">
               <a href="#" className="showcase-category">
-                shirt
+                Bodysuit white top
               </a>
               <h3>
                 <a href="#" className="showcase-title">
-                  Pure Garment Dyed Cotton Shirt
+                  Pure Garment Cotton
                 </a>
               </h3>
               <div className="showcase-rating">
@@ -157,8 +157,8 @@ const Arvr = () => {
                 <ion-icon name="star-outline"></ion-icon>
               </div>
               <div className="price-box">
-                <p className="price">$45.00</p>
-                <del>$56.00</del>
+                <p className="price">$10.00</p>
+                <del>$26.00</del>
               </div>
             </div>
           </div>
@@ -196,11 +196,11 @@ const Arvr = () => {
             </div>
             <div className="showcase-content">
               <a href="#" className="showcase-category">
-                shirt
+                Oversized top and pant
               </a>
               <h3>
                 <a href="#" className="showcase-title">
-                  Pure Garment Dyed Cotton Shirt
+                  Street style clothing
                 </a>
               </h3>
               <div className="showcase-rating">
@@ -211,7 +211,7 @@ const Arvr = () => {
                 <ion-icon name="star-outline"></ion-icon>
               </div>
               <div className="price-box">
-                <p className="price">$45.00</p>
+                <p className="price">$25.00</p>
                 <del>$56.00</del>
               </div>
             </div>
@@ -250,11 +250,11 @@ const Arvr = () => {
             </div>
             <div className="showcase-content">
               <a href="#" className="showcase-category">
-                shirt
+                Jockey workout
               </a>
               <h3>
                 <a href="#" className="showcase-title">
-                  Pure Garment Dyed Cotton Shirt
+                  Trendy gym wear
                 </a>
               </h3>
               <div className="showcase-rating">
